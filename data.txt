@@ -1,0 +1,8 @@
+Hello this is a sample file.
+
+Contact us:
+rahul123@gmail.com
+support@test.com
+info@company.org
+
+Thank you.
